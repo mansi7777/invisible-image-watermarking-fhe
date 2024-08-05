@@ -1,0 +1,7 @@
+data_loaders/__pycache__/
+models/__pycache__/
+train/
+data_loaders/./__pycache__/
+__pycache__
+.artifacts
+.vscode
